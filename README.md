@@ -22,7 +22,7 @@ I have documented each step in detail in the Jupyter Notebook.
 
 ## Results
 
-My final submission achieved a score of approximately 0.15 on the competition leaderboard. This places me in the top 10% of participants at the time of writing.
+My final submission achieved a score of approximately 0.15 on the competition leaderboard.
 
 ## Dependencies
 
